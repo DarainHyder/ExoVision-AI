@@ -169,7 +169,8 @@ http://127.0.0.1:5000/
 | Member | Role | Area |
 |---------|------|------|
 | Muhammad Ahmad | **Team Leader & Data Scientist** | Project Leadership, Data Strategy, Model Evaluation |
-| Syed Darain Hyder Kazmi | ML Engineer | Model Training & Deployment |
+| Syed Darain Hyder Kazmi | ML Engineer | Model working and Training |
+| Mansoob-e-Zahra | AI Expert  | Model Training & Deployment |
 | Muhammad Ahsan Atiq | Backend Developer | Flask API Integration |
 | Muhammad Mohsin | Frontend Developer | HTML Templates & UX |
 | Ali Hassan | Research Lead | NASA Data & Validation |
